@@ -1,6 +1,6 @@
 # Olá, eu sou o Ricardo Fagundes 👋
 
-### UX/UI Engineer & Automation Specialist
+### A Cloud Solutions Architect and DevOps in development.
 
 Sou um profissional focado na criação de experiências digitais de alta performance e na automação de processos complexos. Trabalho na interseção entre Design, Código e Infraestrutura, garantindo que portais web sejam visualmente incríveis, rápidos e operem de forma autônoma.
 
@@ -9,8 +9,6 @@ Sou um profissional focado na criação de experiências digitais de alta perfor
 ### 🚀 Projetos em Destaque
 
 *   **[Outdoor Performance Lab](https://outdoorperformancelab.com)**: Um portal moderno focado em performance esportiva outdoor, arquitetado com Joomla 5 e Design System T4 (SCSS, Bootstrap 5, Glassmorphism).
-*   **DHF Automation**: Ecossistema de automação (Python / n8n) integrado a diversas redes sociais (Pinterest, X, Facebook, Reddit) para publicação autônoma baseada em Inteligência Artificial.
-
 ---
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
