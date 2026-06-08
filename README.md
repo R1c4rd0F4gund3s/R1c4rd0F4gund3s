@@ -1,6 +1,6 @@
 # Olá, eu sou o Ricardo Fagundes 👋
 
-### A Cloud Solutions Architect and DevOps in development.
+### Um Arquiteto de Soluções Cloud e DevOps em desenvolvimento.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
