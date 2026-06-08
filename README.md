@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo Fagundes 👋
+# Olá, eu sou o Ricardo Fagundes 👋
 
 ### A Cloud Solutions Architect and DevOps in development.
 
@@ -9,11 +9,11 @@
 
 <br>
 
-I am a professional focused on creating high-performance digital experiences and automating complex processes. I work at the intersection of Design, Code, and Infrastructure, ensuring that web portals are visually stunning, fast, and operate autonomously.
+Sou um profissional focado na criação de experiências digitais de alta performance e na automação de processos complexos. Trabalho na interseção entre Design, Código e Infraestrutura, garantindo que portais web sejam visualmente incríveis, rápidos e operem de forma autônoma.
 
 ---
 
-🔭 **Currently working on:** Orchestration of Autonomous AI Agent Squads (DevOps/DevSecOps) in local environments.
+🔭 **Atualmente trabalhando em:** Orquestração de Agentes Autônomos de IA (DevOps/DevSecOps) em ambiente local.
 
 ---
 
@@ -31,15 +31,6 @@ I am a professional focused on creating high-performance digital experiences and
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R1c4rd0F4gund3s&show_icons=true&theme=radical&hide_border=true" alt="Ricardo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1c4rd0F4gund3s&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
