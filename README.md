@@ -1,8 +1,19 @@
-# Olá, eu sou o Ricardo Fagundes 👋
+# Hi, I'm Ricardo Fagundes 👋
 
 ### A Cloud Solutions Architect and DevOps in development.
 
-Sou um profissional focado na criação de experiências digitais de alta performance e na automação de processos complexos. Trabalho na interseção entre Design, Código e Infraestrutura, garantindo que portais web sejam visualmente incríveis, rápidos e operem de forma autônoma.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
+
+<br>
+
+I am a professional focused on creating high-performance digital experiences and automating complex processes. I work at the intersection of Design, Code, and Infrastructure, ensuring that web portals are visually stunning, fast, and operate autonomously.
+
+---
+
+🔭 **Currently working on:** Orchestration of Autonomous AI Agent Squads (DevOps/DevSecOps) in local environments.
 
 ---
 
@@ -20,6 +31,15 @@ Sou um profissional focado na criação de experiências digitais de alta perfor
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R1c4rd0F4gund3s&show_icons=true&theme=radical&hide_border=true" alt="Ricardo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1c4rd0F4gund3s&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
